@@ -1,0 +1,2 @@
+2022-06-17 16:34:21 - INFO - execute : SELECT * FROM public.mes_eim where active='Y'
+2022-06-17 16:34:21 - INFO - execute : SELECT * FROM public.mes_eim where active='Y'
